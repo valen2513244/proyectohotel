@@ -1,0 +1,4 @@
+pandas>=1.1.1
+folium>=0.11.0
+streamlit-folium>=0.1.0
+streamlit
